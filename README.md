@@ -9,6 +9,14 @@
 
 ---
 
+## 📋 **Repository Notice**
+
+**This repository serves as a comprehensive project introduction and technical overview for Kabien Health.** It is designed specifically for technical visitors, potential collaborators, and portfolio review purposes. 
+
+⚠️ **Please note:** This repository contains **documentation and project overview materials only** - it does not include the actual application source code, which remains proprietary.
+
+---
+
 ## 🏥 **What is Kabien Health?**
 
 Kabien Health is a tablet-first patient tracking application that transforms how healthcare teams manage patient flow in surgical environments. The app provides real-time visibility into patient status across the perioperative journey, from registration through discharge.
