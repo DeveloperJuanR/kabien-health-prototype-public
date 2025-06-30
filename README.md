@@ -188,9 +188,8 @@ Since this is a healthcare application with sensitive workflow information, the 
 - Technical architecture and code walkthrough
 
 **Contact me to schedule a demo:**
-- 📧 **Email:** [your-email@example.com]
-- 💼 **LinkedIn:** [your-linkedin-profile]
-- 📱 **Phone:** [your-phone-number]
+- 📧 **Email:** developerjuanr@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/dev-juanr/
 
 ---
 
@@ -215,4 +214,4 @@ Since this is a healthcare application with sensitive workflow information, the 
 
 *This project demonstrates full-stack iOS development capabilities, healthcare domain knowledge, and user-centered design thinking. The application showcases advanced SwiftUI techniques, robust architecture patterns, and deep understanding of clinical workflow requirements.*
 
-**© 2025 - Developed by [Your Name] | All rights reserved** 
+**© 2025 - Developed by Juan Rodriguez | All rights reserved** 
