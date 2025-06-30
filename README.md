@@ -34,10 +34,10 @@ Kabien Health addresses these pain points through intuitive visual design and re
 
 ## ✨ **Key Features & User Experience**
 
-### **Visual Workflow Board**
-- Patients displayed as cards moving through six workflow stages
+### **Visual Workflow Management**
+- Intuitive patient tracking through six workflow stages
 - Color-coded rooms and status indicators for instant recognition
-- Interactive chevron controls for quick stage transitions
+- Streamlined interface for quick status updates
 
 ### **Smart Bay Assignment System**
 - Configurable Pre-Op and Post-Op bay management
@@ -88,7 +88,7 @@ Patient-Tracker/
 ├── Models/           # Core data structures (Patient, ProcedureStage, etc.)
 ├── ViewModels/       # Business logic and state management  
 ├── Views/           # SwiftUI UI components
-│   ├── Patient Card/ # Modular patient card components
+│   ├── Components/   # Modular UI components
 │   └── Admin/       # Administrative configuration interfaces
 ├── Utilities/       # Shared utilities (DateFormatters, SoundPlayer)
 └── Resources/       # Audio files and assets
@@ -174,8 +174,8 @@ Future development priorities for production deployment:
 
 Since this is a healthcare application with sensitive workflow information, the app is not publicly available for download. However, I'm happy to provide a **personalized demo** showcasing:
 
-- Complete patient workflow navigation
-- Real-time status updates and team communication
+- Complete patient workflow management system
+- Real-time status tracking and team communication
 - Administrative configuration capabilities
 - Technical architecture and code walkthrough
 
