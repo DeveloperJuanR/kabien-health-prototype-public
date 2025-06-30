@@ -193,6 +193,20 @@ Since this is a healthcare application with sensitive workflow information, the 
 
 ---
 
+## 🌐 **Learn More About Kabien Health**
+
+This prototype represents the core patient tracking functionality of the broader Kabien Health platform vision. To learn more about the company's mission, team, and comprehensive approach to surgical workflow optimization, visit:
+
+**🔗 [Kabien Health - Official Website](https://kabienhealth.com/)**
+
+The marketing site provides additional context about:
+- **Company Vision:** "Where Surgical Teams Move as One"
+- **Platform Overview:** Real-time clarity and communication solutions for surgical environments
+- **Team Background:** Healthcare professionals who've experienced workflow challenges firsthand
+- **Broader Value Proposition:** Comprehensive surgical team coordination beyond individual patient tracking
+
+---
+
 ## 🔗 **Additional Resources**
 
 <!-- Placeholder links for portfolio presentation -->
