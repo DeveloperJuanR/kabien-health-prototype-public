@@ -207,19 +207,9 @@ The marketing site provides additional context about:
 
 ---
 
-## 🔗 **Additional Resources**
-
-<!-- Placeholder links for portfolio presentation -->
-- 📊 **[System Architecture Diagram]** *(Link to technical architecture visualization)*
-- 🎨 **[UI/UX Design Showcase]** *(Link to blurred interface screenshots)*  
-- 📋 **[Feature Specifications]** *(Link to detailed feature documentation)*
-- 🏗️ **[Code Architecture Overview]** *(Link to code structure diagram)*
-
----
-
 ## 📄 **Project Information**
 
-**Development Timeline:** March 2025 - Present  
+**Development Timeline:** February 2025 - Present  
 **Current Version:** 0.9.3 (Prototype)  
 **Platform Requirements:** iOS 15.0+, iPadOS optimized  
 **Development Tools:** Xcode 15+, Swift 5.5+, SwiftUI  
